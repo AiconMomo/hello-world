@@ -15,4 +15,7 @@ char *StrCpy(char* sr)
 		dst[length] ='\0';
 		return dst;//复制字符串函数
 }
+/**
+remote edit B21031609孙晟昊
+**/
 
